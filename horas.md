@@ -8,3 +8,5 @@
 |Israel | 1h 15m | 15/2/2019| Reunión inicial del grupo|
 |Israel | 1h | 17/2/2019| Reunión a distancia preparatoria de la primera tutoría con el profesor|
 |Israel | 40m | 18/2/2019| Reunión inicial del grupo|
+|Andrés  | 1       | 15/2/2019| Reunión inicial del grupo|
+|Andrés  | 3       | 17/2/2019| Comienzo propuesta económica|
