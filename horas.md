@@ -18,3 +18,8 @@
 |Sergio  | 1       | 15/2/2019| Reunión inicial del grupo|
 |Sergio  | 3       | 17/2/2019| Comienzo propuesta económica|
 |Sergio  | 30m     | 22/2/2019| Realización presupuesto de la propuesta económica|
+|Víctor  | 1       | 15/2/2019| Reunión inicial del grupo|
+|Víctor  | 3       | 17/2/2019| Comienzo propuesta económica|
+|Víctor  | 30m     | 22/2/2019| Realización resumen de la propuesta económica|
+
+
