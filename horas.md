@@ -5,6 +5,7 @@
 |Saúl  | 1       | 15/2/2019| Reunión inicial del grupo|
 |Saúl  | 3       | 17/2/2019| Comienzo propuesta económica|
 |Saúl  | 1,5     | 22/2/2019| Realización propuesta económica y diseño conceptual de la base de datos|
+|Saúl  | 1,5     | 03/3/2019| Comienzo plan de gestión|
 |Israel | 1h 15m | 15/2/2019| Reunión inicial del grupo|
 |Israel | 1h | 17/2/2019| Reunión a distancia preparatoria de la primera tutoría con el profesor|
 |Israel | 40m | 18/2/2019| Reunión a distancia con parte del grupo para hablar sobre la tecnología a emplear en el proyecto y uso de Git|
