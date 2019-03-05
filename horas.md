@@ -25,6 +25,7 @@
 |Víctor  | 1       | 15/2/2019| Reunión inicial del grupo|
 |Víctor  | 3       | 17/2/2019| Comienzo propuesta económica|
 |Víctor  | 30m     | 22/2/2019| Realización resumen de la propuesta económica|
+|Víctor  | 3      | 4/3/2019| Realización del calendario del proyecto y division del trabajo|
 |Eduardo | 1       | 15/2/2019| Reunión inicial del grupo|
 |Eduardo | 3       | 17/2/2019| Comienzo propuesta económica|
 |Eduardo | 1h 30m  | 22/2/2019| Realización del plan de trabajo de la proupesta económica|
