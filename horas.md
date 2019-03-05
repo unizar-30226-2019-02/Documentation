@@ -31,4 +31,9 @@
 |Eduardo | 3       | 17/2/2019| Comienzo propuesta económica|
 |Eduardo | 1h 30m  | 22/2/2019| Realización del plan de trabajo de la proupesta económica|
 |Eduardo | 1h 30m  |  2/3/2019| Realización de la introducción del plan de gestión, análisis, diseño y memoria|
+|Sergio | 1,5    | 3/3/2019| Reunión preparación de la memoria de gestión|
+|Sergio | 15m    | 5/2/2019| Realización de Procesos Técnicos de la memoria de gestión|
+|Sergio | 2    | 5/3/2019| Reunión acabado de la primera versión de la memoria de gestión|
+|Víctor | 2    | 5/3/2019| Reunión acabado de la primera versión de la memoria de gestión|
+
 
