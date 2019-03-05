@@ -15,7 +15,7 @@
 |Andrés  | 3       | 17/2/2019| Comienzo propuesta económica|
 |Andrés  | 1,5     | 03/3/2019| Comienzo plan de gestión|
 |Andrés  | 30m     | 04/3/2019| Plan de aseguramiento de la calidad|
-|Andrés  | 1,5     | 04/3/2019| Preparación de la entrega de la memoria|
+|Andrés  | 1,5     | 05/3/2019| Preparación de la entrega de la memoria|
 |Félix  | 1       |  15/2/2019 | Reunión inicial del grupo|
 |Félix  | 3       |  17/2/2019 | Comienzo propuesta técnica y económica|
 |Félix  | 1.5     |  22/2/2019 | Realización de la propuesta económica y diseño conceptual de la base de datos |
