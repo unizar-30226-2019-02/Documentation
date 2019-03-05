@@ -7,6 +7,7 @@
 |Saúl  | 1,5     | 22/2/2019| Realización propuesta económica y diseño conceptual de la base de datos|
 |Saúl  | 1,5     | 03/3/2019| Comienzo plan de gestión|
 |Saúl  | 1     | 04/3/2019| Plan de construcción y despligue|
+|Saúl  | 2     | 05/3/2019| Preparación primera entrega memoria|
 |Israel | 1h 15m | 15/2/2019| Reunión inicial del grupo|
 |Israel | 1h | 17/2/2019| Reunión a distancia preparatoria de la primera tutoría con el profesor|
 |Israel | 40m | 18/2/2019| Reunión a distancia con parte del grupo para hablar sobre la tecnología a emplear en el proyecto y uso de Git|
