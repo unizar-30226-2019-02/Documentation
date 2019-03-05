@@ -36,6 +36,8 @@
 |Sergio | 1,5    | 3/3/2019| Reunión preparación de la memoria de gestión|
 |Sergio | 15m    | 5/2/2019| Realización de Procesos Técnicos de la memoria de gestión|
 |Sergio | 2    | 5/3/2019| Reunión acabado de la primera versión de la memoria de gestión|
-
+|Alejandro  | 1       | 15/2/2019| Reunión inicial del grupo|
+|Alejandro  | 3       | 17/2/2019| Comienzo propuesta económica|
+|Alejandro  | 2     | 05/3/2019| Preparación primera entrega memoria|
 
 
