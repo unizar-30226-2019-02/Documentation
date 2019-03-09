@@ -9,6 +9,7 @@
 |Saúl  | 1     | 04/3/2019| Plan de construcción y despligue|
 |Saúl  | 2     | 05/3/2019| Preparación primera entrega memoria|
 |Saúl  | 2     | 07/3/2019| Rediseño de la base de datos|
+|Saúl  | 2     | 09/3/2019| Familiarización con Spring Boot y Spring Tools Suite|
 |Israel | 1h 15m | 15/2/2019| Reunión inicial del grupo|
 |Israel | 1h | 17/2/2019| Reunión a distancia preparatoria de la primera tutoría con el profesor|
 |Israel | 40m | 18/2/2019| Reunión a distancia con parte del grupo para hablar sobre la tecnología a emplear en el proyecto y uso de Git|
