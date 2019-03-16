@@ -16,7 +16,7 @@
 |Saúl  | 2     | 09/3/2019| Familiarización con Spring Boot y Spring Tools Suite|
 |Saúl  | 3     | 10/3/2019| Familiarización con Spring Boot y Spring Tools Suite|
 |Saúl  | 3     | 13/3/2019| Creación base de datos|
-|Saúl  | 3     | 15/3/2019| Finalización creación base de datos|
+|Saúl  | 4     | 15/3/2019| Finalización creación base de datos, y comienzo de los controladores|
 |Israel | 1h 15m | 15/2/2019| Reunión inicial del grupo|
 |Israel | 1h | 17/2/2019| Reunión a distancia preparatoria de la primera tutoría con el profesor|
 |Israel | 40m | 18/2/2019| Reunión a distancia con parte del grupo para hablar sobre la tecnología a emplear en el proyecto y uso de Git|
