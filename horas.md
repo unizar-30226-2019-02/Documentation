@@ -52,6 +52,7 @@
 |Eduardo | 30m     | 11/3/2019| Familiarización con Spring Boot y Spring Tools Suite|
 |Eduardo | 1h 30m  | 14/3/2019| Familiarización con Spring Boot y Spring Tools Suite|
 |Eduardo | 2h      | 16/3/2019| Familiarización con Spring Boot y Spring Tools Suite|
+|Eduardo | 2h      | 20/3/2019| Configuración Git-Spring Boot|
 |Sergio | 1,5    | 3/3/2019| Reunión preparación de la memoria de gestión|
 |Sergio | 30m    | 5/3/2019| Realización de Procesos Técnicos de la memoria de gestión|
 |Sergio | 2    | 5/3/2019| Reunión acabado de la primera versión de la memoria de gestión|
