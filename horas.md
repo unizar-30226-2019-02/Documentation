@@ -44,6 +44,7 @@
 |Víctor  | 3      | 4/3/2019| Realización del calendario del proyecto y division del trabajo|
 |Víctor  | 2    | 5/3/2019| Reunión acabado de la primera versión de la memoria de gestión|
 |Víctor | 1 | 16/03/2019| Instalacion de flutter y familiarización con el entorno|
+|Víctor | 3 | 22/03/2019| Diseño sistema mediante AndroidStudio|
 |Eduardo | 1       | 15/2/2019| Reunión inicial del grupo|
 |Eduardo | 3       | 17/2/2019| Comienzo propuesta económica|
 |Eduardo | 1h 30m  | 22/2/2019| Realización del plan de trabajo de la proupesta económica|
