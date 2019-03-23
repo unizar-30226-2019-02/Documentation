@@ -61,5 +61,6 @@
 |Alejandro  | 1       | 15/2/2019| Reunión inicial del grupo|
 |Alejandro  | 3       | 17/2/2019| Comienzo propuesta económica|
 |Alejandro  | 2     | 05/3/2019| Preparación primera entrega memoria|
+|Sergio | 3    | 23/3/2019| Gestión del entorno para el desarrollo de la app y diseño de una pantalla inicial|
 
 
