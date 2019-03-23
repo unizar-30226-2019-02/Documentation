@@ -7,6 +7,7 @@
 |Jorge  | 2       | 05/3/2019| Preparación primera entrega memoria|
 |Jorge  | 1h30m      | 14/3/2019| Familiarización con Vue.js|
 |Jorge  | 2h      | 17/3/2019| Familiarización con Vue.js|
+|Jorge  | 1h30m      | 22/3/2019| Realización pantalla inicio Web|
 |Saúl  | 1       | 15/2/2019| Reunión inicial del grupo|
 |Saúl  | 3       | 17/2/2019| Comienzo propuesta económica|
 |Saúl  | 1,5     | 22/2/2019| Realización propuesta económica y diseño conceptual de la base de datos|
