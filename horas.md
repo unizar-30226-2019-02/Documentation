@@ -20,6 +20,7 @@
 |Saúl  | 3     | 13/3/2019| Creación base de datos|
 |Saúl  | 4     | 15/3/2019| Finalización creación base de datos, y comienzo del controlador del usuario|
 |Saúl  | 2     | 16/3/2019| Desarrollo del controlador del usuario|
+|Saúl  | 6,5     | 24/3/2019| Desarrollo del controlador del usuario, archivos y venta|
 |Israel | 1h 15m | 15/2/2019| Reunión inicial del grupo|
 |Israel | 1h | 17/2/2019| Reunión a distancia preparatoria de la primera tutoría con el profesor|
 |Israel | 40m | 18/2/2019| Reunión a distancia con parte del grupo para hablar sobre la tecnología a emplear en el proyecto y uso de Git|
