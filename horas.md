@@ -53,6 +53,7 @@
 |Víctor | 1 | 16/03/2019| Instalacion de flutter y familiarización con el entorno|
 |Víctor | 4 | 22/03/2019| Diseño sistema mediante AndroidStudio|
 |Víctor | 2 | 25/03/2019| Diseño sistema mediante AndroidStudio|
+|Víctor  | 2      | 30/3/2019| Realización del calendario del proyecto y division del trabajo|
 |Eduardo | 1       | 15/2/2019| Reunión inicial del grupo|
 |Eduardo | 3       | 17/2/2019| Comienzo propuesta económica|
 |Eduardo | 1h 30m  | 22/2/2019| Realización del plan de trabajo de la proupesta económica|
