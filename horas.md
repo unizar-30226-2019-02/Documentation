@@ -42,6 +42,7 @@
 |Félix  | 1     | 05/3/2019| Preparación primera entrega memoria|
 |Félix  | 1.5     | 14/3/2019| Familiarización con HTML y CSS|
 |Félix  | 2     | 22/3/2019| Aprendizaje de Javascript|
+|Félix  | 2     | 30/3/2019| Corrección de la página de inicio y comienzo de las páginas de registro y principal|
 |Sergio  | 1       | 15/2/2019| Reunión inicial del grupo|
 |Sergio  | 3       | 17/2/2019| Comienzo propuesta económica|
 |Sergio  | 30m     | 22/2/2019| Realización presupuesto de la propuesta económica|
