@@ -25,6 +25,7 @@
 |Saúl  | 6,5     | 24/3/2019| Desarrollo del controlador del usuario, archivos y venta|
 |Saúl  | 5     | 30/3/2019| Desarrollo del controlador del usuario, y venta|
 |Saúl  | 0,5     | 31/3/2019| Correción de algunos errores controladores, y ajuntamiento de la memoria|
+|Saúl  | 2     | 1/4/2019| Correción de problemas con las restricciones en usuario|
 |Israel | 1h 15m | 15/2/2019| Reunión inicial del grupo|
 |Israel | 1h | 17/2/2019| Reunión a distancia preparatoria de la primera tutoría con el profesor|
 |Israel | 40m | 18/2/2019| Reunión a distancia con parte del grupo para hablar sobre la tecnología a emplear en el proyecto y uso de Git|
