@@ -74,6 +74,7 @@
 |Eduardo | 4h      | 24/3/2019| Desarrollo del controlador de usuarioverant y etiqueta|
 |Eduardo | 2h      | 31/3/2019| Desarrollo del controlador de etiqueta|
 |Eduardo | 30m     | 31/3/2019| Corrección del plan de gestión, análisis, diseño y memoria|
+|Eduardo | 1h 30m  |  3/4/2019| Realización del apartado de diseño del sistema del plan de gestión, análisis, diseño y memoria|
 |Sergio | 1,5    | 3/3/2019| Reunión preparación de la memoria de gestión|
 |Sergio | 30m    | 5/3/2019| Realización de Procesos Técnicos de la memoria de gestión|
 |Sergio | 2    | 5/3/2019| Reunión acabado de la primera versión de la memoria de gestión|
