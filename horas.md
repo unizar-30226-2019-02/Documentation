@@ -83,5 +83,7 @@
 |Alejandro  | 3       | 17/2/2019| Comienzo propuesta económica|
 |Alejandro  | 2     | 05/3/2019| Preparación primera entrega memoria|
 |Sergio | 3    | 22/3/2019| Gestión del entorno para el desarrollo de la app y diseño de una pantalla inicial|
+|Sergio | 3    | 3/4/2019| Creación de la pantalla de registro de la app|
+|Sergio | 2    | 5/4/2019| Acabar pantalla registro app y comprobar que funciona el registro con el servidor desplegado|
 
 
