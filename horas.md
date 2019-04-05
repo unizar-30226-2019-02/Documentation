@@ -63,6 +63,8 @@
 |Víctor | 2 | 25/03/2019| Diseño sistema mediante AndroidStudio|
 |Víctor | 2 | 31/03/2019| Diseño sistema mediante AndroidStudio|
 |Víctor  | 2      | 30/3/2019| Realización del calendario del proyecto y division del trabajo|
+|Víctor  | 2      | 04/4/2019| Diseño sistema mediante AndroidStudio|
+|Víctor  | 3      | 05/4/2019| Realización del calendario del proyecto y division del trabajo|
 |Eduardo | 1       | 15/2/2019| Reunión inicial del grupo|
 |Eduardo | 3       | 17/2/2019| Comienzo propuesta económica|
 |Eduardo | 1h 30m  | 22/2/2019| Realización del plan de trabajo de la proupesta económica|
