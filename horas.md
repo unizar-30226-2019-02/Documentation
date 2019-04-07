@@ -42,6 +42,7 @@
 |Andrés  | 4       | 26/3/2019| Android studio|
 |Andrés  | 40m     | 26/3/2019| Corrección de errores|
 |Andrés  | 15m     | 7/4/2019| Actualización de memoria|
+|Andrés  | 3h     | 7/4/2019| Android studio|
 |Félix  | 1       |  15/2/2019 | Reunión inicial del grupo|
 |Félix  | 3       |  17/2/2019 | Comienzo propuesta técnica y económica|
 |Félix  | 1.5     |  22/2/2019 | Realización de la propuesta económica y diseño conceptual de la base de datos |
