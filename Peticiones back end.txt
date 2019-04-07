@@ -1,0 +1,57 @@
+Todas las que sean inserción de información devuelven un String
+{O:Ok}
+{E:Mensaje de error}
+
+Peticiones usuario		Parámetros	Significado				Obligatorio		Notas
+
+/registrar				un			nombre de usuario			*
+						cor 		correo						*
+						pass		contraseña					*
+						tel			teléfono
+						na			nombre						*
+						lna			apellidos					*
+						cp			codigo postal
+						ci			ciudad
+						pr			provincia
+						lat			latitud
+						lon			longitud
+						im			imagen
+
+/actualizarUsuario		un			nombre de usuario			*			Básicamente tenéis que devolver
+						cor 		correo						*			toda la info del usuario tal cual
+						pass		contraseña					*			la hayas recibido (si es que no se
+						tel			teléfono					*			ha modificado)
+						na			nombre						*			Pronto lo solucionare para que todo
+						lna			apellidos					*			sea opcional
+						cp			codigo postal				*
+						ci			ciudad						*
+						pr			provincia					*
+						lat			latitud						*
+						lon			longitud					*
+						im			imagen						*
+
+/cambiarContrasena		un			nombre de usuario			*
+						oldpass		contraseña anterior			*
+						newpass		contraseña nueva			*
+
+/logear					un			nombre de usuario			*
+						pass		contraseña					*
+						
+/recuperarUsuario		un			nombre de usuario			*			Devuelve un Optional<usuario> para evitar nulls
+																			tiene funciones isPresent() para saber si contiene
+																			algo, y get() para obtener lo que haya dentro
+/banearUsuario			un			nombre de usuario			*
+
+/desbanearUsuario		un			nombre de usuario			*
+
+/existeUsuario			un			nombre de usuario			*			Devuelve booleano
+
+-------------------------------------------------------------------------------------------------------------------------------
+
+Peticiones venta
+
+/publicarVenta			un			nombre de usuario			*
+						prod		nombre del producto			*
+						desc		descripción					*
+						pre 		precio						*
+						arc			archivo						*			Lo dejaré por el momento que no sea obligario
