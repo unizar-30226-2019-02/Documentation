@@ -55,3 +55,7 @@ Peticiones venta
 						desc		descripción					*
 						pre 		precio						*
 						arc			archivo						*			Lo dejaré por el momento que no sea obligario
+						
+/listarProductosCiudad	ci			ciudad						*			Devuelve List<venta> 
+
+/listarProductosUsuario	un			nombre de usuario			*			Devuelve List<venta> 
