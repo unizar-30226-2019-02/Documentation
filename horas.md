@@ -10,6 +10,8 @@
 |Jorge  | 1h30m      | 22/3/2019| Realización pantalla inicio Web|
 |Jorge  | 2     | 30/3/2019| Corrección de la página de inicio y comienzo de las páginas de registro y principal|
 |Jorge | 2h30m   | 31/3/2019| Correcciones pagina registro y realizacion pagina principal|
+|Jorge | 3h   | 6/4/2019| Correcciones y finalizacion pantalla inicio|
+|Jorge | 3h   | 7/4/2019| Pantalla perfil|
 |Saúl  | 1       | 15/2/2019| Reunión inicial del grupo|
 |Saúl  | 3       | 17/2/2019| Comienzo propuesta económica|
 |Saúl  | 1,5     | 22/2/2019| Realización propuesta económica y diseño conceptual de la base de datos|
