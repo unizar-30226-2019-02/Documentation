@@ -1,7 +1,7 @@
 |Desarrollador| Tarea asignada|
 |-------------|---------------|
 |Saúl | API usuario, API venta|
-|Víctor | |App |Pantalla formulario venta | |
+|Víctor | App Pantalla formulario venta  |
 |Sergio | Vista app registro|
 |Jorge | |
 |Andrés | |
