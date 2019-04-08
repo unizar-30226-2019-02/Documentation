@@ -1,7 +1,7 @@
 |Desarrollador| Tarea asignada|
 |-------------|---------------|
 |Saúl | API usuario, API venta|
-|Víctor | |
+|Víctor | |App |Pantalla formulario venta | |
 |Sergio | Vista app registro|
 |Jorge | |
 |Andrés | |
@@ -38,7 +38,6 @@
 |Web |Vista dar opinión |
 |Web |Vista hacer report |
 |Web |Vista gestión admin |
-|App |Pantalla formulario venta |
 |App |Pantalla lista productos |
 |App |Pantalla formulario subasta |
 |App |Pantalla producto en venta |
