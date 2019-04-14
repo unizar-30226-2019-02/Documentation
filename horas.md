@@ -32,6 +32,7 @@
 |Saúl  | 5     | 6/4/2019| Investigación de la gestión de sesión, y actualización de los modelos, controladores y repositoris de archivo, usuario y venta, desarrollo de la memoria|
 |Saúl  | 1,5     | 08/4/2019| Aunar las partes de la memoria y corrección de esta|
 |Saúl  | 0,75     | 9/4/2019| Adición de unas etiquetas para JSON y pérdida de tiempo por un fichero de configuración|
+|Saúl  | 3,5      | 14/4/2019| Mejora de la base de datos, y desarrollo API venta|
 |Israel | 1h 15m | 15/2/2019| Reunión inicial del grupo|
 |Israel | 1h | 17/2/2019| Reunión a distancia preparatoria de la primera tutoría con el profesor|
 |Israel | 40m | 18/2/2019| Reunión a distancia con parte del grupo para hablar sobre la tecnología a emplear en el proyecto y uso de Git|
