@@ -6,7 +6,7 @@
 |Jorge | |
 |Andrés | |
 |Alejandro | Documentación APIs|
-|Eduardo | Esquemas diseño del sistema|
+|Eduardo | API oferta|
 |Félix | |
 |Israel | |
 
