@@ -52,6 +52,7 @@
 |Andrés  | 4h     | 18/4/2019| Android studio: Vista productos|
 |Andrés  | 3h     | 19/4/2019| Android studio|
 |Andrés  | 1,5h     | 19/4/2019| Android studio|
+|Andrés  | 2,5h     | 26/4/2019| Android studio: Pantalla principal|
 |Félix  | 1       |  15/2/2019 | Reunión inicial del grupo|
 |Félix  | 3       |  17/2/2019 | Comienzo propuesta técnica y económica|
 |Félix  | 1.5     |  22/2/2019 | Realización de la propuesta económica y diseño conceptual de la base de datos |
