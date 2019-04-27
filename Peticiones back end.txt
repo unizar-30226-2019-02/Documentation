@@ -55,7 +55,54 @@ Peticiones venta
 						desc		descripción					*
 						pre 		precio						*
 						arc			archivo						*			Lo dejaré por el momento que no sea obligario
+/actualizarVenta		id			identificador de la venta	*
+						prod		nombre del producto			*
+						desc		descripción					*
+						pre 		precio						*
+						arc			archivo						*			Lo dejaré por el momento que no sea obligario
 						
+/listarPaginaPrincipal														Devuelve List<venta>, lista de las últimas ventas publicadas
+																			incluye subastas
+
 /listarProductosCiudad	ci			ciudad						*			Devuelve List<venta> 
 
 /listarProductosUsuario	un			nombre de usuario			*			Devuelve List<venta> 
+
+/recuperarProducto		id			identificador de la venta	*			Devuelve Optional<venta>
+
+/desactivarVenta		id			identificador de la venta	*			Puede desactivar ventas y subastas
+
+/activarVenta			id			identificador de la venta	*			Puede activar ventas y subastas
+
+-------------------------------------------------------------------------------------------------------------------------------
+
+Peticiones subasta
+
+/publicarSubasta		un			nombre de usuario			*
+						prod		nombre del producto			*
+						desc		descripción					*
+						pre 		precio						*
+						pin 		precio inicial				*
+						end			fecha de fin				*
+						arc			archivo						*			Lo dejaré por el momento que no sea obligario
+/actualizarVenta		id			identificador de la subasta	*
+						prod		nombre del producto			*
+						desc		descripción					*
+						pre 		precio						*
+						pin 		precio inicial				*
+						end			fecha de fin				*
+						arc			archivo						*			Lo dejaré por el momento que no sea obligario
+						
+/listarSubastasCiudad	ci			ciudad						*			Devuelve List<venta> 
+
+/listarSubastasUsuario	un			nombre de usuario			*			Devuelve List<venta> 
+
+/recuperarProducto		id			identificador de la venta	*			Devuelve Optional<venta>
+
+/desactivarSubasta		id			identificador de la venta	*
+
+/activarVenta			id			identificador de la venta	*
+
+/realizarPuja			un			usuario que puja			*
+						id			identificador de venta		*
+						ct			cantidad					*
