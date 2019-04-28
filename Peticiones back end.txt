@@ -106,3 +106,34 @@ Peticiones subasta
 /realizarPuja			un			usuario que puja			*
 						id			identificador de venta		*
 						ct			cantidad					*
+						
+-------------------------------------------------------------------------------------------------------------------------------
+
+Mensaje
+
+/mandarMensaje			em			emisor						*
+						re			receptor					*
+						con			contenido					*
+
+/listarChats			un			usuario						*			Decuelve una lista de usuarios con los que ha chateado
+
+/cargarChar				em			emisor						*			Devuelve una lista de mensajes entre ambos usuarios
+						re			receptor					*			ordenados de mas viejos a mas nuevos
+
+/recibirMensaje			lm			identificador ultimo		*			Devuelve una lista con los mensajes enviados por emisor
+									mensaje recibido						a receptor, desde el mensaje identificado por lm
+						em			emisor						*
+						re			receptor					*
+			
+-------------------------------------------------------------------------------------------------------------------------------
+
+Opinion
+
+/mandarOpinion			em			emisor						*
+						re			receptor					*
+						con			contenido					*
+						es			estrellas					*
+						
+/listaOpinionesRecibidas un			usuario						*
+
+/listaOpinionesHechas	un			usuario						*
