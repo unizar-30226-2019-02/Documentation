@@ -35,6 +35,7 @@
 |Saúl  | 3,5      | 14/4/2019| Mejora de la base de datos, y desarrollo API venta|
 |Saúl  | 6      | 16/4/2019| Desarrollo API subasta y venta, envío de email para el registro|
 |Saúl  | 7      | 28/4/2019| Desarrollo API de mensajería y de opinion, algunas correcciones de usuario y venta, y subida de archivos|
+|Saúl  | 2,5      | 1/5/2019| Algunas correcciones de venta, y subida de archivos|
 |Israel | 1h 15m | 15/2/2019| Reunión inicial del grupo|
 |Israel | 1h | 17/2/2019| Reunión a distancia preparatoria de la primera tutoría con el profesor|
 |Israel | 40m | 18/2/2019| Reunión a distancia con parte del grupo para hablar sobre la tecnología a emplear en el proyecto y uso de Git|
