@@ -3,7 +3,7 @@
 |Saúl | API usuario, API venta|
 |Víctor | App Pantalla formulario venta  |
 |Sergio | Vista app registro|
-|Jorge | |
+|Jorge |Logica Registro |
 |Andrés | |
 |Alejandro | Documentación APIs|
 |Eduardo | API oferta|
@@ -23,7 +23,6 @@
 |Back-end | API información perfil|
 |Back-end | API gestión adimin|
 |Back-end | API mensajes|
-|Web |Vista registro |
 |Web |Vista formulario venta |
 |Web |Vista lista productos |
 |Web |Vista formulario subasta |
@@ -57,3 +56,6 @@
 |Back-end | API usuario versión anterior |
 |Back-end | API etiqueta |
 |App | Pantalla login |
+|Web |Vista registro |
+|Web |Vista login |
+|Web |Logica Login |
