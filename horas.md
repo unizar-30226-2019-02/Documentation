@@ -13,6 +13,7 @@
 |Jorge | 3h   | 6/4/2019| Correcciones y finalizacion pantalla inicio|
 |Jorge | 3h   | 7/4/2019| Pantalla perfil|
 |Jorge | 2h   | 9/4/2019| Ultimas correciones y despliegue 1ª iteracion web|
+|Jorge | 1h30m   | 2/5/2019| Logica pantalla Login|
 |Saúl  | 1       | 15/2/2019| Reunión inicial del grupo|
 |Saúl  | 3       | 17/2/2019| Comienzo propuesta económica|
 |Saúl  | 1,5     | 22/2/2019| Realización propuesta económica y diseño conceptual de la base de datos|
