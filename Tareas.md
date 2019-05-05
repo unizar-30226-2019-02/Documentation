@@ -3,7 +3,7 @@
 |Saúl | API usuario, API venta|
 |Víctor | App Pantalla formulario venta  |
 |Sergio | Vista app registro|
-|Jorge |Logica Registro |
+|Jorge |Vista formulario venta/subasta |
 |Andrés | |
 |Alejandro | Documentación APIs|
 |Eduardo | API oferta y funcón parseo etiquetas para búsqueda|
