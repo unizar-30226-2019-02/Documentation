@@ -6,7 +6,7 @@
 |Jorge |Logica Registro |
 |Andrés | |
 |Alejandro | Documentación APIs|
-|Eduardo | API oferta|
+|Eduardo | API oferta y funcón parseo etiquetas para búsqueda|
 |Félix | |
 |Israel | |
 
