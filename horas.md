@@ -16,6 +16,7 @@
 |Jorge | 1h30m   | 2/5/2019| Logica pantalla Login|
 |Jorge | 1h30m   | 3/5/2019| Logica pantalla Registro|
 |Jorge | 4h   | 5/5/2019| Logica pantalla Registro y comienzo vista Subir Venta/Subasta|
+|Jorge | 1h   | 6/5/2019| vista Subir Venta/Subasta|
 |Saúl  | 1       | 15/2/2019| Reunión inicial del grupo|
 |Saúl  | 3       | 17/2/2019| Comienzo propuesta económica|
 |Saúl  | 1,5     | 22/2/2019| Realización propuesta económica y diseño conceptual de la base de datos|
