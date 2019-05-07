@@ -123,6 +123,7 @@
 |Alejandro  | 2     | 05/3/2019| Preparación primera entrega memoria|
 |Alejandro  | 2     | 28/4/2019| Desarrollo del modelo, repositorio y controlador de seguimiento|
 |Alejandro  | 1     | 30/4/2019| Correcciones en el codigo de seguimiento para que se ajustara correctamente al modelo|
+|Alejandro  | 1     | 4/5/2019| Modificación del código de seguimiento|
 |Sergio | 3    | 22/3/2019| Gestión del entorno para el desarrollo de la app y diseño de una pantalla inicial|
 |Sergio | 3    | 3/4/2019| Creación de la pantalla de registro de la app|
 |Sergio | 2    | 5/4/2019| Acabar pantalla registro app y comprobar que funciona el registro con el servidor desplegado|
