@@ -116,17 +116,25 @@
 |Eduardo | 30m     | 24/4/2019| Desarrollo del controlador de oferta|
 |Eduardo | 1h      |  5/5/2019| Desarrollo del controlador de oferta|
 |Eduardo | 3h      | 12/5/2019| Desarrollo de método para parsear etiquetas y gestión de proyecto |
-|Sergio | 1,5    | 3/3/2019| Reunión preparación de la memoria de gestión|
-|Sergio | 30m    | 5/3/2019| Realización de Procesos Técnicos de la memoria de gestión|
-|Sergio | 2    | 5/3/2019| Reunión acabado de la primera versión de la memoria de gestión|
 |Alejandro  | 1       | 15/2/2019| Reunión inicial del grupo|
 |Alejandro  | 3       | 17/2/2019| Comienzo propuesta económica|
 |Alejandro  | 2     | 05/3/2019| Preparación primera entrega memoria|
 |Alejandro  | 2     | 28/4/2019| Desarrollo del modelo, repositorio y controlador de seguimiento|
 |Alejandro  | 1     | 30/4/2019| Correcciones en el codigo de seguimiento para que se ajustara correctamente al modelo|
 |Alejandro  | 1     | 4/5/2019| Modificación del código de seguimiento|
+|Sergio | 1,5    | 3/3/2019| Reunión preparación de la memoria de gestión|
+|Sergio | 30m    | 5/3/2019| Realización de Procesos Técnicos de la memoria de gestión|
+|Sergio | 2    | 5/3/2019| Reunión acabado de la primera versión de la memoria de gestión|
 |Sergio | 3    | 22/3/2019| Gestión del entorno para el desarrollo de la app y diseño de una pantalla inicial|
 |Sergio | 3    | 3/4/2019| Creación de la pantalla de registro de la app|
 |Sergio | 2    | 5/4/2019| Acabar pantalla registro app y comprobar que funciona el registro con el servidor desplegado|
-
+|Sergio | 4    | 14/4/2019| Desarrollo Android Studio|
+|Sergio | 5    | 21/4/2019| Inicio perfil usuario|
+|Sergio | 2    | 27/4/2019| Memoria procesos técnicos |
+|Sergio | 5    | 29/4/2019| Procesado de imagenes en la app y mandar al servidor|
+|Sergio | 1    | 30/4/2019| Implementacion perfil android studio|
+|Sergio | 6.5    | 1/5/2019| Implementacion perfil de usuario con imagenes |
+|Sergio | 1    | 4/5/2019| Inicio editar perfil|
+|Sergio | 4    | 5/5/2019| Implementacion editar perfil|
+|Sergio | 2    | 9/5/2019| Actualización perfil e inicio valoraciones|
 
