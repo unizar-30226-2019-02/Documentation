@@ -118,6 +118,7 @@
 |Eduardo | 1h      |  5/5/2019| Desarrollo del controlador de oferta|
 |Eduardo | 3h      | 12/5/2019| Desarrollo de método para parsear etiquetas y gestión de proyecto |
 |Eduardo | 45m     | 13/5/2019| Corrección del apartado de diseño del sistema del plan de gestión, análisis, diseño y memoria|
+|Eduardo | 1h 15m  | 14/5/2019| Corrección del apartado de diseño del sistema del plan de gestión, análisis, diseño y memoria|
 |Alejandro  | 1       | 15/2/2019| Reunión inicial del grupo|
 |Alejandro  | 3       | 17/2/2019| Comienzo propuesta económica|
 |Alejandro  | 2     | 05/3/2019| Preparación primera entrega memoria|
