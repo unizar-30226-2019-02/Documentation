@@ -6,7 +6,7 @@
 |Jorge |Vista formulario venta/subasta |
 |Andrés | |
 |Alejandro | Documentación APIs|
-|Eduardo | Correción apartado 4.2 memoria, revisión API usuarioverant y API ventaverant |
+|Eduardo | Revisión API usuarioverant y realización API ventaverant |
 |Félix | |
 |Israel | |
 
