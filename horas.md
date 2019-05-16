@@ -44,6 +44,7 @@
 |Saúl  | 3,5      | 1/5/2019| Algunas correcciones de venta, y subida de archivos|
 |Saúl  | 8      | 3/5/2019| Revisión y correcciones API oferta y seguimiento, ampliación APIs venta y subasta, API report|
 |Saúl  | 2      | 14/5/2019| Revisión y correcciones API oferta y seguimiento|
+|Saúl  | 4      | 16/5/2019| Métodos de búsqueda y filtrado, principalmente búsqueda por palabras clave|
 |Israel | 1h 15m | 15/2/2019| Reunión inicial del grupo|
 |Israel | 1h | 17/2/2019| Reunión a distancia preparatoria de la primera tutoría con el profesor|
 |Israel | 40m | 18/2/2019| Reunión a distancia con parte del grupo para hablar sobre la tecnología a emplear en el proyecto y uso de Git|
