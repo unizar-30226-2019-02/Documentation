@@ -54,25 +54,50 @@ Peticiones venta
 						prod		nombre del producto			*
 						desc		descripción					*
 						pre 		precio						*
-						arc			archivo						*			Lo dejaré por el momento que no sea obligario
+						arc1		archivo						*			Imagen pasada a string
+						arc2		archivo									Imagen pasada a string
+						arc3		archivo									Imagen pasada a string
+						arc4		archivo									Imagen pasada a string
+						
 /actualizarVenta		id			identificador de la venta	*
 						prod		nombre del producto			*
 						desc		descripción					*
 						pre 		precio						*
-						arc			archivo						*			Lo dejaré por el momento que no sea obligario
+						arc1		archivo						*			Imagen pasada a string
+						arc2		archivo									Imagen pasada a string
+						arc3		archivo									Imagen pasada a string
+						arc4		archivo									Imagen pasada a string
 						
-/listarPaginaPrincipal														Devuelve List<venta>, lista de las últimas ventas publicadas
-																			incluye subastas
-
-/listarProductosCiudad	ci			ciudad						*			Devuelve List<venta> 
-
-/listarProductosUsuario	un			nombre de usuario			*			Devuelve List<venta> 
+/listarProductos															Mandará siempre 25 o menos
+						met			metodo de ordenación		*			Coincidencias, Popularidad, Valoraciones
+																			Precio asc, Precio des, Fecha asc, Fecha des
+						ets			texto de búsqueda						
+						min			precio mínimo
+						max			precio máximo
+						pr			provincia
+						ci			ciudad
+						tp			tipo de venta							1 = subasta, 0 = venta normal, 
+																			null (no poner el atributo) = ambas
+						id			identificador venta						identificador de la última venta que se mandó en la 
+																			petición anterior, en esta petición se mandarán 
+																			las ventas siguientes a esa última
+																			Si no se pone el atributo, se mandarán desde el
+																			principio
 
 /recuperarProducto		id			identificador de la venta	*			Devuelve Optional<venta>
 
 /desactivarVenta		id			identificador de la venta	*			Puede desactivar ventas y subastas
 
 /activarVenta			id			identificador de la venta	*			Puede activar ventas y subastas
+
+/numeroVentasUsuario	un			nombre de usuario			*			
+
+/numeroComprasUsuario	un			nombre de usuario			*
+
+/confirmarPagoVenta		id			identificador de la venta	*			para confirmar la recepcion de pago
+
+/cancelarPagoVenta		id			identificador de la venta	*			para confirmar que la no recepcion de pago
+																			y volver a poner la venta como disponible
 
 -------------------------------------------------------------------------------------------------------------------------------
 
@@ -84,24 +109,27 @@ Peticiones subasta
 						pre 		precio						*
 						pin 		precio inicial				*
 						end			fecha de fin				*
-						arc			archivo						*			Lo dejaré por el momento que no sea obligario
+						arc1		archivo						*			Imagen pasada a string
+						arc2		archivo									Imagen pasada a string
+						arc3		archivo									Imagen pasada a string
+						arc4		archivo									Imagen pasada a string
 /actualizarVenta		id			identificador de la subasta	*
 						prod		nombre del producto			*
 						desc		descripción					*
 						pre 		precio						*
 						pin 		precio inicial				*
 						end			fecha de fin				*
-						arc			archivo						*			Lo dejaré por el momento que no sea obligario
+						arc1		archivo						*			Imagen pasada a string
+						arc2		archivo									Imagen pasada a string
+						arc3		archivo									Imagen pasada a string
+						arc4		archivo									Imagen pasada a string
 						
-/listarSubastasCiudad	ci			ciudad						*			Devuelve List<venta> 
+/recuperarSubasta		id			identificador de la venta	*			Devuelve Optional<venta>
+																			/recuperarProducto también sirve
 
-/listarSubastasUsuario	un			nombre de usuario			*			Devuelve List<venta> 
+/desactivarSubasta		id			identificador de la venta	*			/desactivarVenta también sirve
 
-/recuperarProducto		id			identificador de la venta	*			Devuelve Optional<venta>
-
-/desactivarSubasta		id			identificador de la venta	*
-
-/activarVenta			id			identificador de la venta	*
+/activarVenta			id			identificador de la venta	*			/activarVenta también sirve
 
 /realizarPuja			un			usuario que puja			*
 						id			identificador de venta		*
@@ -115,7 +143,9 @@ Mensaje
 						re			receptor					*
 						con			contenido					*
 
-/listarChats			un			usuario						*			Decuelve una lista de usuarios con los que ha chateado
+/listarChats			un			usuario						*			Devuelve una lista de mensajes, uno (el último) por
+																			cada usuario con los que ha chateado
+																			Ordenados de más a menos reciente
 
 /cargarChar				em			emisor						*			Devuelve una lista de mensajes entre ambos usuarios
 						re			receptor					*			ordenados de mas viejos a mas nuevos
@@ -137,3 +167,72 @@ Opinion
 /listaOpinionesRecibidas un			usuario						*
 
 /listaOpinionesHechas	un			usuario						*
+
+/numeroOpinionesRecibidas un		usuario						*
+	
+/numeroOpinionesRealizadas un		usuario						*
+
+-------------------------------------------------------------------------------------------------------------------------------
+
+Report
+
+/mandarReport			em			emisor						*
+						re			receptor					*
+						con			contenido					*
+						mov			motivo						*
+						nv			venta denunciada						Si no aparece nv, se asume que es un repor al usuario
+						
+/listarReportesRecibidos un			usuario						*
+
+/listarReportesHechos	un			usuario						*
+
+/numeroReportesRecibidos un			usuario						*
+
+-------------------------------------------------------------------------------------------------------------------------------
+
+Seguimiento
+
+/seguirProducto			un			usuario						*
+						nv			identificador venta			*
+		
+/eliminarSeguimiento	id			ident del seguimiento		*
+
+/listarSeguimientosVenta nv			identificador de la venta	*
+
+/listarSeguimientosUsuario un		usuario						*
+
+/cantidadSeguidosVenta	nv			identificador de la venta	*
+
+/cantidadSeguidosUsuario un			usuario						*
+
+-------------------------------------------------------------------------------------------------------------------------------
+
+Oferta
+
+/hacerOferta			un			usuario						*
+						nv			identificador de la venta	*
+						can			cantidad					*
+						
+/listarOfertasVenta		nv			identificador de la venta	*
+
+/listarOfertasRealizadas un			usuario						*
+
+/listarOfertasRecibidas	un			usuario						*
+
+/aceptarOferta			id			ident de la oferta			*
+
+/rechazarOferta			id			ident de la oferta			*
+
+/retirarOferta			id			ident de la oferta			*
+
+-------------------------------------------------------------------------------------------------------------------------------
+
+Archivo
+
+/uploadArchivoTemp		file		cadena del archivo			*	Lo de temp no lo quito para no fastidiar
+																	lo que tenéis hecho
+																	
+/loadArchivoTemp		id			ident del archivop			*	Lo de temp no lo quito para no fastidiar
+																	lo que tenéis hecho
+																	
+/loadArchivoUsuario		unn			usuario						*
