@@ -68,6 +68,7 @@
 |Andrés  | 5,5h     | 2/5/2019| Android studio: Pantalla principal y productos|
 |Andrés  | 2h     | 3/5/2019| Android studio: Pantalla filtros y productos|
 |Andrés  | 5,5h     | 3/5/2019| Android studio: Gestión de imágenes en productos|
+|Andrés  | 3h     | 17/5/2019| Android studio: Corrección de bugs y menú de búsqueda|
 |Félix  | 1       |  15/2/2019 | Reunión inicial del grupo|
 |Félix  | 3       |  17/2/2019 | Comienzo propuesta técnica y económica|
 |Félix  | 1.5     |  22/2/2019 | Realización de la propuesta económica y diseño conceptual de la base de datos |
