@@ -6,22 +6,12 @@
 |Jorge |Vista formulario venta/subasta |
 |Andrés | |
 |Alejandro | Documentación APIs|
-|Eduardo | Revisión API usuarioverant y realización API ventaverant |
+|Eduardo | Revisión punto 4.2 memoria y propuesta tecnica y economica |
 |Félix | |
 |Israel | |
 
 |Grupo| Tareas pendientes|
 |-----|------------------|
-|Back-end | API subasta|
-|Back-end | API oferta|
-|Back-end | API puja|
-|Back-end | API opinión|
-|Back-end | API report|
-|Back-end | API seguimiento|
-|Back-end | API categoría|
-|Back-end | API venta versión anterior|
-|Back-end | API información perfil|
-|Back-end | API gestión adimin|
 |Back-end | API mensajes|
 |Web |Vista formulario venta |
 |Web |Vista lista productos |
@@ -55,6 +45,14 @@
 |-----|------------------|
 |Back-end | API usuario versión anterior |
 |Back-end | API etiqueta |
+|Back-end | API subasta|
+|Back-end | API oferta|
+|Back-end | API puja|
+|Back-end | API opinión|
+|Back-end | API report|
+|Back-end | API seguimiento|
+|Back-end | API categoría|
+|Back-end | API venta versión anterior|
 |App | Pantalla login |
 |Web |Vista registro |
 |Web |Vista login |
