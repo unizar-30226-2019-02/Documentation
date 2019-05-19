@@ -85,6 +85,7 @@
 |Félix  | 1.5   | 31/3/2019| Realización de la pantalla de registro|
 |Félix  | 3.5   | 6/4/2019| Comienzo de la parte logica del login y el registro y realizacion de las primeras peticiones al backend|
 |Félix  | 0.75   | 7/4/2019| Corrección de algunos puntos en el apartado de la memoria 3.1.2|
+|Félix  | 4  | 19/5/2019| Inicio pantalla editar perfil|
 |Sergio  | 1       | 15/2/2019| Reunión inicial del grupo|
 |Sergio  | 3       | 17/2/2019| Comienzo propuesta económica|
 |Sergio  | 30m     | 22/2/2019| Realización presupuesto de la propuesta económica|
