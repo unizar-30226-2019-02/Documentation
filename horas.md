@@ -73,6 +73,8 @@
 |Andrés  | 2h     | 18/5/2019| Android studio: Corrección de bugs y lista de mensajes|
 |Andrés  | 3h     | 18/5/2019| Android studio: Chat|
 |Andrés  | 4h     | 19/5/2019| Android studio: Chat y productos|
+|Andrés  | 2h     | 19/5/2019| Android studio: Corrección de bugs y mejoras de productos|
+|Andrés  | 1h     | 20/5/2019| Android studio: Corrección de bugs y mejoras de chat|
 |Félix  | 1       |  15/2/2019 | Reunión inicial del grupo|
 |Félix  | 3       |  17/2/2019 | Comienzo propuesta técnica y económica|
 |Félix  | 1.5     |  22/2/2019 | Realización de la propuesta económica y diseño conceptual de la base de datos |
