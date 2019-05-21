@@ -47,6 +47,7 @@
 |Saúl  | 4      | 16/5/2019| Métodos de búsqueda y filtrado, principalmente búsqueda por palabras clave|
 |Saúl  | 6      | 17/5/2019| Métodos de búsqueda y filtrado, mejoras en oferta, subasta y mensaje|
 |Saúl  | 0,5      | 18/5/2019| Corrección de bugs de métodos de búsqueda y de mensajes|
+|Saúl  | 1,5      | 21/5/2019| Corrección de bugs, y recuperación de contraseña|
 |Israel | 1h 15m | 15/2/2019| Reunión inicial del grupo|
 |Israel | 1h | 17/2/2019| Reunión a distancia preparatoria de la primera tutoría con el profesor|
 |Israel | 40m | 18/2/2019| Reunión a distancia con parte del grupo para hablar sobre la tecnología a emplear en el proyecto y uso de Git|
@@ -108,6 +109,7 @@
 |Víctor  | 5      | 28/4/2019| Diseño sistema mediante AndroidStudio|
 |Víctor  | 7      | 1/5/2019| Diseño sistema mediante AndroidStudio|
 |Víctor  | 5      | 3/5/2019| Diseño sistema mediante AndroidStudio|
+|Víctor  | 2,5      | 21/5/2019| Implementación de categorían en la venta|
 |Eduardo | 1       | 15/2/2019| Reunión inicial del grupo|
 |Eduardo | 3       | 17/2/2019| Comienzo propuesta económica|
 |Eduardo | 1h 30m  | 22/2/2019| Realización del plan de trabajo de la proupesta económica|
