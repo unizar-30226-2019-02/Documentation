@@ -118,6 +118,7 @@
 |Víctor  | 2,5      | 21/5/2019| Implementación de categorían en la venta|
 |Víctor  | 7      | 22/5/2019| Arrelgos en las pantallas de subida de producto|
 |Víctor  | 7      | 24/5/2019| Implementacion de la compra de productos|
+|Víctor  | 3     | 25/5/2019| Implementacion de la subasta de productos|
 |Eduardo | 1       | 15/2/2019| Reunión inicial del grupo|
 |Eduardo | 3       | 17/2/2019| Comienzo propuesta económica|
 |Eduardo | 1h 30m  | 22/2/2019| Realización del plan de trabajo de la proupesta económica|
