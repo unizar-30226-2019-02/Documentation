@@ -121,6 +121,7 @@
 |Víctor  | 7      | 22/5/2019| Arrelgos en las pantallas de subida de producto|
 |Víctor  | 7      | 24/5/2019| Implementacion de la compra de productos|
 |Víctor  | 3     | 25/5/2019| Implementacion de la subasta de productos|
+|Víctor  | 6     | 26/5/2019| Aceptar y rechazar ofertas|
 |Eduardo | 1       | 15/2/2019| Reunión inicial del grupo|
 |Eduardo | 3       | 17/2/2019| Comienzo propuesta económica|
 |Eduardo | 1h 30m  | 22/2/2019| Realización del plan de trabajo de la proupesta económica|
