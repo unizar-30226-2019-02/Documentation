@@ -20,7 +20,8 @@
 |Jorge | 4h   | 12/5/2019| Logica pantalla subir Venta/subasta|
 |Jorge | 1h   | 23/5/2019| Vista Pantalla Principal|
 |Jorge | 3h   | 24/5/2019| Vista Pantalla Principal y manejo de Imagenes|
-|Jorge | 4h   | 25/5/2019| Vista Pantalla Principal|
+|Jorge | 4h   | 25/5/2019| Logica Pantalla Principal y manejo de Imagenes|
+|Jorge | 5h   | 26/5/2019| Logica Pantalla Principal|
 |Saúl  | 1       | 15/2/2019| Reunión inicial del grupo|
 |Saúl  | 3       | 17/2/2019| Comienzo propuesta económica|
 |Saúl  | 1,5     | 22/2/2019| Realización propuesta económica y diseño conceptual de la base de datos|
