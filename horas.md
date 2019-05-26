@@ -153,7 +153,7 @@
 |Alejandro  | 1     | 4/5/2019| Modificación del código de seguimiento|
 |Alejandro  | 5     | 24/5/2019| Realizacion de la memoria|
 |Alejandro  | 3     | 25/5/2019| Realizacion de la memoria|
-|Alejandro  | 2     | 4/5/2019| Realizacion de la memoria|
+|Alejandro  | 2     | 26/5/2019| Realizacion de la memoria|
 |Sergio | 1,5    | 3/3/2019| Reunión preparación de la memoria de gestión|
 |Sergio | 30m    | 5/3/2019| Realización de Procesos Técnicos de la memoria de gestión|
 |Sergio | 2    | 5/3/2019| Reunión acabado de la primera versión de la memoria de gestión|
