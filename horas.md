@@ -146,6 +146,7 @@
 |Eduardo | 2h      | 18/5/2019| Revisión del controlador de usuarioverant y realización del controlador de ventaverant|
 |Eduardo | 2h      | 19/5/2019| Revisión del controlador de usuarioverant y realización del controlador de ventaverant|
 |Eduardo | 2h      | 19/5/2019| Revisión del controlador de usuarioverant y ventaverant y corrección del apartado de diseño del sistema del plan de gestión, análisis, diseño y memoria|
+|Eduardo | 3h      | 26/5/2019| Generación de documentación de la API con swagger |
 |Alejandro  | 1       | 15/2/2019| Reunión inicial del grupo|
 |Alejandro  | 3       | 17/2/2019| Comienzo propuesta económica|
 |Alejandro  | 2     | 05/3/2019| Preparación primera entrega memoria|
