@@ -70,14 +70,20 @@ Peticiones venta
 						
 /listarProductos															Mandará siempre 25 o menos
 						met			metodo de ordenación		*			Coincidencias, Popularidad, Valoraciones
-																			Precio asc, Precio des, Fecha asc, Fecha des
+																			Precio asc, Precio des, Fecha asc, Fecha des,
+																			Distancia
 						ets			texto de búsqueda						
 						min			precio mínimo
 						max			precio máximo
 						pr			provincia
 						ci			ciudad
+						cat			categoria
 						tp			tipo de venta							1 = subasta, 0 = venta normal, 
 																			null (no poner el atributo) = ambas
+						lat			latitud del usuario
+						lon			longitud del usuario
+						mind		minima distancia en km
+						maxd		máxima distancia en km
 						id			identificador venta						identificador de la última venta que se mandó en la 
 																			petición anterior, en esta petición se mandarán 
 																			las ventas siguientes a esa última
