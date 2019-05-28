@@ -55,7 +55,7 @@
 |Saúl  | 1,5      | 21/5/2019| Corrección de bugs, y recuperación de contraseña|
 |Saúl  | 1      | 23/5/2019| Corrección de bugs|
 |Saúl  | 2,5      | 26/5/2019| Corrección de bugs, revisión punto 5 memoria|
-|Saúl  | 2,5      | 28/5/2019| Corrección de bugs, unificación con versión documentada, implementación soporte gps|
+|Saúl  | 3      | 28/5/2019| Corrección de bugs, unificación con versión documentada, implementación soporte gps|
 |Israel | 1h 15m | 15/2/2019| Reunión inicial del grupo|
 |Israel | 1h | 17/2/2019| Reunión a distancia preparatoria de la primera tutoría con el profesor|
 |Israel | 40m | 18/2/2019| Reunión a distancia con parte del grupo para hablar sobre la tecnología a emplear en el proyecto y uso de Git|
