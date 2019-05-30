@@ -91,6 +91,7 @@
 |Andrés  | 3h     | 24/5/2019| Android studio: Imágenes productos y lista seguimiento|
 |Andrés  | 1h 20m    | 29/5/2019| Android studio: Filtro de distancia|
 |Andrés  | 3h    | 30/5/2019| Android studio: Distancia y editar producto|
+|Andrés  | 3h    | 30/5/2019| Android studio: Errores y mejoras|
 |Félix  | 1       |  15/2/2019 | Reunión inicial del grupo|
 |Félix  | 3       |  17/2/2019 | Comienzo propuesta técnica y económica|
 |Félix  | 1.5     |  22/2/2019 | Realización de la propuesta económica y diseño conceptual de la base de datos |
