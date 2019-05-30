@@ -62,6 +62,36 @@
 |Israel | 1h | 17/2/2019| Reunión a distancia preparatoria de la primera tutoría con el profesor|
 |Israel | 40m | 18/2/2019| Reunión a distancia con parte del grupo para hablar sobre la tecnología a emplear en el proyecto y uso de Git|
 |Israel | 1h 45m | 22/2/2019| Reunión con parte del grupo para terminar 1ª versión del presupuesto económico y descripción técnica |
+|Israel| 1h 30m | 3/3/2019|	Reunión a distancia para realizar memoria de la 2ª entrega|
+|Israel| 1h | 4/3/2019 | Preparación punto 2 (organización del proyecto)|
+|Israel| 15 min | 6/3/2019	Enviar borrador acta y empezar a pasar formato acta a limpio (y enseñar funciones Word - Revisar y Comentarios por Whatshapp)|
+|Israel| 45m | 12/3/2019 | Tutorial HTML|
+|Israel| 1m | 9/3/2019	|	Visitar página W3Schools para tutoriales|
+|Israel| 15m | 13/3/2019 | Tutorial HTML y/o JavaScript|
+|Israel| 30m | 18/3/19 | Tutorial HTML W3C|
+|Israel| 20m | 20/3/2019 |	Tutorial HTML W3C|
+|Israel| 1h 20m | 22/3/2019	|	Tutorial HTML W3C|
+|Israel| 45m | 23/3/19	|	Tutorial HTML y JavaScript W3C￼|
+|Israel| 10m |29/3/19	|Tutorial Css W3C|
+|Israel| 30m | 30/3/19 |	Tutorial Css W3C|
+|Israel| 1h 30 m| 31/3/2019|	Puesta en marcha WebStorm y planificación del diseño vista estática|
+|Israel| 1h 20m | 4/4/2019 |	Buscando entorno y diseñando pantalla web|
+|Israel| 6h 18m | 5/4/2019 |	Pantalla subir producto y gestión y descarga de IDE web BootstrapStudio|
+|Israel| 1h 45m | 6/4/2019 |	Pantalla subir producto|
+|Israel| 3h 30m | 9/4/2019 y 10/4/2019	|	Llamada con Felix para rediseño de la pantalla subir productos|
+|Israel| 1h | 16/4/2019	|	Diseño vistas en papel|
+|Israel| 5h | 17/4/2019	|	Diseño vistas de pantallas en papel y elaboración de mapa de navegación|
+|Israel| 1h 20m | 12/5/2019 |	Configuración entorno GitHub (borrar y crear Branch) y Acta de reunión 5 y empezar pantalla visualizar Producto|
+|Israel| 2h 30m| 16/5/2019	|	Subir requisitos funcionales a GitHub + pantalla visualizar producto|
+|Israel| 4h 20m | 17/5/2019 |	Página de visualizar producto (estática principalmente), subir cambios a GitHub y aprender JavaScript|
+|Israel| 1h 5m | 20/5/2019 |		Subir cambios a GitHub y aprender JavaScript|
+|Israel| 38m | 22/5/2019	|	Aprender HTML |
+|Israel| 50m | 26/5/2019	|	Aprender JavaScript y estudiar alguna petición de la API (implementar lógica de pantalla “ editar perfil”)|
+|Israel| 6h 7m | 27/5/2019	|	1. Aprender JavaScript y estudiar alguna petición de la API (implementar lógica de pantalla “ editar perfil”). 2. Pantalla “perfil de usuario”|
+|Israel| 2h 30m | 27/5/2019 | Preparación presentación|
+|Israel| 3h 2m | 28/5/2019 | Pantalla perfilUsuario|	
+|Israel| 1h | 29/5/2019	|	Pantalla perfilUsuario|
+|Israel| 9h 17m | 30/5/2019 |	Pantalla ofertas y correcciones y actualización de documentación (requisitos), plan de gestión (punto 2, anexo, pequeñas modificaciones), pruebas de la APP|
 |Andrés  | 1       | 15/2/2019| Reunión inicial del grupo|
 |Andrés  | 3       | 17/2/2019| Comienzo propuesta económica|
 |Andrés  | 1,5     | 03/3/2019| Comienzo plan de gestión|
