@@ -64,7 +64,7 @@
 |Israel | 1h 45m | 22/2/2019| Reunión con parte del grupo para terminar 1ª versión del presupuesto económico y descripción técnica |
 |Israel| 1h 30m | 3/3/2019|	Reunión a distancia para realizar memoria de la 2ª entrega|
 |Israel| 1h | 4/3/2019 | Preparación punto 2 (organización del proyecto)|
-|Israel| 15 min | 6/3/2019	Enviar borrador acta y empezar a pasar formato acta a limpio (y enseñar funciones Word - Revisar y Comentarios por Whatshapp)|
+|Israel| 15 min | 6/3/2019	| Enviar borrador acta y empezar a pasar formato acta a limpio (y enseñar funciones Word - Revisar y Comentarios por Whatshapp)|
 |Israel| 45m | 12/3/2019 | Tutorial HTML|
 |Israel| 1m | 9/3/2019	|	Visitar página W3Schools para tutoriales|
 |Israel| 15m | 13/3/2019 | Tutorial HTML y/o JavaScript|
