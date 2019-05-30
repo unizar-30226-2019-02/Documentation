@@ -185,4 +185,9 @@
 |Sergio | 1    | 4/5/2019| Inicio editar perfil|
 |Sergio | 4    | 5/5/2019| Implementacion editar perfil|
 |Sergio | 2    | 9/5/2019| Actualización perfil e inicio valoraciones|
+|Sergio | 3    | 22/5/2019| Perfil de otros usuarios |
+|Sergio | 4    | 25/5/2019| Cambios editar perfil |
+|Sergio | 8    | 26/5/2019| Valoraciones en perfil |
+|Sergio | 5    | 29/5/2019| Valoraciones de usuarios, cambios en el perfil de otros usuarios |
+|Sergio | 5    | 30/5/2019| Reportes, cambio de contraseña, botón de localización |
 
