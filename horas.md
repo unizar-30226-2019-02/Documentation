@@ -137,6 +137,7 @@
 |Félix  | 4  | 19/5/2019| Inicio pantalla editar perfil|
 |Félix  | 8 | 30/5/2019| Finalización pantalla editar perfil|
 |Félix  | 5 | 30/5/2019| Finalización pantalla perfil, sobre todo parte de logica|
+|Félix  | 1.5 | 31/5/2019| Redirecciones y solucion de algunos fallos|
 |Sergio  | 1       | 15/2/2019| Reunión inicial del grupo|
 |Sergio  | 3       | 17/2/2019| Comienzo propuesta económica|
 |Sergio  | 30m     | 22/2/2019| Realización presupuesto de la propuesta económica|
