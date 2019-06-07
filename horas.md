@@ -25,7 +25,7 @@
 |Jorge | 1h30m   | 27/5/2019| Filtros|
 |Jorge | 2h30m   | 28/5/2019| Filtros y Buscador|
 |Jorge | 5h   | 29/5/2019| Corrección errores|
-|Jorge | 10   | 30/5/2019| Corrección de errores y revisión final|
+|Jorge | 10h   | 30/5/2019| Corrección de errores y revisión final|
 |Saúl  | 1       | 15/2/2019| Reunión inicial del grupo|
 |Saúl  | 3       | 17/2/2019| Comienzo propuesta económica|
 |Saúl  | 1,5     | 22/2/2019| Realización propuesta económica y diseño conceptual de la base de datos|
