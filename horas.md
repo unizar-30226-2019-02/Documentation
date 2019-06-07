@@ -210,6 +210,7 @@
 |Alejandro  | 1     | 30/5/2019| Modificación de la memoria|
 |Alejandro  | 1     | 5/6/2019| Corrección de la memoria|
 |Alejandro  | 3     | 6/6/2019| Corrección de la memoria|
+|Alejandro  | 3     | 7/6/2019| Realización de la memoria|
 |Sergio | 1,5    | 3/3/2019| Reunión preparación de la memoria de gestión|
 |Sergio | 30m    | 5/3/2019| Realización de Procesos Técnicos de la memoria de gestión|
 |Sergio | 2    | 5/3/2019| Reunión acabado de la primera versión de la memoria de gestión|
