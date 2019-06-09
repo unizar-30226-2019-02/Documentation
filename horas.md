@@ -94,9 +94,10 @@
 |Israel| 3h 2m | 28/5/2019 | Pantalla perfilUsuario|	
 |Israel| 1h | 29/5/2019	|	Pantalla perfilUsuario|
 |Israel| 9h 17m | 30/5/2019 |	Pantalla ofertas y correcciones y actualización de documentación (requisitos), plan de gestión (punto 2, anexo, pequeñas modificaciones), pruebas de la APP|
-|Israel| 3h 16m | 31/5/2019 |	Lógica ofertas y aprender JS|
+|Israel| 3h 16m | 31/5/2019 |	Lógica ofertas y aprender JS y actualizar horas en GitHub|
+|Israel| 5h 40m | 1/6/2019 |	Lógica ofertas y aprender Javacript|
 |Israel| 1h 19m | 6/6/2019 |	aprender JS y pantalla ofertas|
-|Israel| 10h 26m | 6/6/2019 |	aprender JS y pantalla ofertas|
+|Israel| 10h 26m | 7/6/2019 |	aprender JS y pantalla ofertas|
 |Andrés  | 1       | 15/2/2019| Reunión inicial del grupo|
 |Andrés  | 3       | 17/2/2019| Comienzo propuesta económica|
 |Andrés  | 1,5     | 03/3/2019| Comienzo plan de gestión|
